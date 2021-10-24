@@ -1,0 +1,78 @@
+{
+  "setting": {},
+  "condition": {
+    "plugin": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "gamePlugin": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": [
+        {
+          "name": "每日推荐",
+          "pathName": "pages/recommend/recommend",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "发现好店",
+          "pathName": "pages/haodian/haodian",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "心动",
+          "pathName": "pages/xindong/xindong",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "消息",
+          "pathName": "pages/message/message",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "好友列表",
+          "pathName": "pages/friends/friends",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "赞同",
+          "pathName": "pages/agree/agree",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "关注",
+          "pathName": "pages/guanzhu/guanzhu",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "评论",
+          "pathName": "pages/pinglun/pinglun",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "我的",
+          "pathName": "pages/mine/mine",
+          "query": "",
+          "scene": null
+        },
+        {
+          "name": "我的",
+          "pathName": "pages/mine/mine",
+          "query": "",
+          "scene": null
+        }
+      ]
+    }
+  }
+}

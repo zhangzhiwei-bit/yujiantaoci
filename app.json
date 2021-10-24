@@ -1,0 +1,71 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/mine/mine",
+    "pages/find/find",
+    "pages/dongtai/dongtai",
+    "pages/message/message",
+    "pages/friends/friends",
+    "pages/agree/agree",
+    "pages/pinglun/pinglun",
+    "pages/guanzhu/guanzhu",
+    "pages/guang/guang",
+    "pages/recommend/recommend",
+    "pages/dingzhi/dingzhi",
+    "pages/haodian/haodian",
+    "pages/xindong/xindong",
+    "pages/pojo/pojo",
+    "pages/per/per",
+    "pages/login/login",
+    "pages/indexvideo/indexvideo",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#2f5957",
+    "navigationBarTitleText": "豫见陶瓷",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar": {
+    "color": "#999",
+    "selectedColor": "#ff2d4a",
+    "backgroundColor": "#ffffff",
+    "position": "bottom",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "icons/首页.png",
+        "selectedIconPath": "icons/首页-o.png"
+      },
+      {
+        "pagePath":  "pages/find/find",
+        "text": "发现",
+        "iconPath": "icons/发现.png",
+        "selectedIconPath": "icons/发现-o.png"
+      },
+      {
+        "pagePath": "pages/guang/guang",
+        "text": "逛逛",
+        "iconPath": "icons/逛逛.png",
+        "selectedIconPath": "icons/逛逛-o.png"
+      },
+      {
+        "pagePath": "pages/message/message",
+        "text": "消息",
+        "iconPath": "icons/消 息.png",
+        "selectedIconPath": "icons/消 息-o.png"
+      },
+      {
+        "pagePath": "pages/mine/mine",
+        "text": "我的",
+        "iconPath": "icons/我 的.png",
+        "selectedIconPath": "icons/我 的-o.png"
+      }
+    ]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
+
