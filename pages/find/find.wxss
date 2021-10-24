@@ -1,0 +1,97 @@
+.header{
+  display: flex;
+  align-items: top;
+  position: fixed;
+  top: 0rpx;
+  width: 100%;
+  background-color: #2f5957;
+}
+.header image{
+  margin-left: 20rpx;
+  width: 50rpx;
+  height: 50rpx;
+}
+.header image:nth-child(2){
+  margin-right: 160rpx;
+}
+.header navigator{
+  margin-right: 20rpx;
+  color: rgba(0, 0, 0, 1);
+	font-size: 30rpx;
+}
+.fonter{
+  margin-top: 50rpx;
+  background-color: white;
+}
+.item{
+  margin: 20rpx;
+  padding: 10rpx;
+  border-top:  rgba(153, 153, 153, 1) 2rpx solid;
+  border-bottom: rgba(153, 153, 153, 1) 2rpx solid;
+}
+.pic{
+  width: 72rpx;
+	height: 72rpx;
+	color: rgba(80, 80, 80, 1);
+	background-color: rgba(153, 153, 153, 1);
+	border-radius: 38rpx;
+  font-size: 28rpx;
+  margin-right: 20rpx;
+  margin-bottom: 20rpx;
+}
+.name{
+  display: flex;
+  align-items: center;
+}
+.pic_name{
+  color: rgba(0, 0, 0, 1);
+	font-size: 28rpx;
+}
+image{
+  width: 46rpx;
+  height: 46rpx;
+}
+.content{
+  color: rgba(80, 80, 80, 1);
+  font-size: 28rpx;
+  margin-bottom: 20rpx;
+}
+.position{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: rgba(80, 80, 80, 1);
+	font-size: 24rpx;
+}
+.icon{
+  display: flex;
+  align-items: center;
+}
+.content image{
+  width: 680rpx;
+  height: 400rpx;
+  margin-top: 10rpx;
+}
+swiper swiper-item image{
+  width: 265rpx;
+  height: 170rpx;
+}
+.swi{
+  width: 200rpx;
+  height: 171rpx;
+}
+#it{
+  display: flex;
+  justify-content: space-between;
+}
+.add{
+  background: #999999;
+  position: fixed;
+  bottom: 100rpx;
+  right: 60rpx;
+  border-radius: 100rpx;
+}
+.add image{
+  width: 100rpx;
+  height: 100rpx;
+}

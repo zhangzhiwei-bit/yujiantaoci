@@ -1,0 +1,54 @@
+Page{
+  background-image: url(https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202021-10-23%20170200.png?sign=2d62aa9638503f5b07df5f746e9a09a6);
+  background-size: 100% auto;
+}
+.option{
+  display: flex;
+  justify-content: left;
+  align-items: center;
+}
+.option view{
+  color: rgba(229, 229, 229, 1);
+  font-size: 30rpx;
+  margin: 20rpx;
+  margin-top: 10rpx;
+}
+.option .text1{
+  color: black;
+	font-size: 36rpx;
+  font-weight: bold;
+  border-bottom: black 7rpx solid;  
+}
+.goods_list{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.good{
+  margin: 15rpx;
+  width: 340rpx;
+  height: 510rpx;
+  background-color: #bfbfbf;
+  border-radius: 20rpx;
+}
+.good_pic image{
+  width: 340rpx;
+  height: 349rpx;
+  border-radius: 20rpx;
+}
+.good_info{
+  height: 140rpx;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+.name{
+  color: rgba(80, 80, 80, 1);
+	font-size: 33rpx;
+}
+.price{
+  color: rgba(229, 21, 21, 1);
+  font-size: 45rpx;
+  font-weight: bold;
+}

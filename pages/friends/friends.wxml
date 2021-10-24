@@ -1,0 +1,74 @@
+<view class="messages">
+  <view class="message">
+    <view class="icon">
+    </view>
+    <view class="content">
+      <text>xiaopiu</text>
+      <text>Writer</text>
+    </view>
+  </view>
+  <view class="message">
+    <view class="icon">
+    </view>
+    <view class="content">
+      <text>老王</text>
+      <text>汝瓷制作人</text>
+    </view>
+  </view>
+  <view class="message">
+    <view class="icon">
+    </view>
+    <view class="content">
+      <text>小天</text>
+      <text>陶瓷爱好者</text>
+    </view>
+  </view>
+  <view class="message">
+    <view class="icon">
+    </view>
+    <view class="content">
+      <text>Denisse White</text>
+      <text>爱陶瓷的老美</text>
+    </view>
+  </view>
+  <view class="message">
+    <view class="icon">
+    </view>
+    <view class="content">
+      <text>1326</text>
+      <text>xxxxxxxxxx</text>
+    </view>
+  </view>
+  <view class="message">
+    <view class="icon">
+    </view>
+    <view class="content">
+      <text>2345</text>
+      <text>xxxxxxxxxx</text>
+    </view>
+  </view>
+  <view class="message">
+    <view class="icon">
+    </view>
+    <view class="content">
+      <text>34663</text>
+      <text>xxxxxxxxxx</text>
+    </view>
+  </view>
+  <view class="message">
+    <view class="icon">
+    </view>
+    <view class="content">
+      <text>33333</text>
+      <text>xxxxxxxxxx</text>
+    </view>
+  </view>
+  <view class="message">
+    <view class="icon">
+    </view>
+    <view class="content">
+      <text>364632</text>
+      <text>xxxxxxxxxx</text>
+    </view>
+  </view>
+</view>

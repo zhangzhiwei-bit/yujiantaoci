@@ -1,0 +1,25 @@
+Page{
+  background-image: url(https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202021-10-23%20170200.png?sign=2d62aa9638503f5b07df5f746e9a09a6);
+  background-size: 100% auto;
+}
+.body{
+  width: 750rpx;
+  background-color: white;
+  padding-top: 30rpx;
+}
+image{
+  width: 700rpx;
+  height: 375rpx;
+}
+.item{
+  margin-top: 30rpx;
+  margin-bottom: 30rpx;
+  text-align: center;
+}
+.text{ 
+  margin-bottom: 30rpx;
+  text-align: left;
+  margin-left: 30rpx;
+  color: rgba(80, 80, 80, 1);
+	font-size: 30rpx;
+}

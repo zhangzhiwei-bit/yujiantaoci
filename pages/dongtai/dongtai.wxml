@@ -1,0 +1,8 @@
+<view class="body">
+  <textarea value="{{textVal}}"  placeholder="写点什么吧......" name="" id="" cols="30" rows="10"></textarea>
+  <view class="icon">
+    <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E5%8F%91%E7%8E%B0/%E8%A1%A8%E6%83%85.png"></image>表情
+    <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E5%8F%91%E7%8E%B0/%E6%8B%8D%E7%85%A7.png"></image>照片
+  </view>
+  <view class="fabu">发布</view>
+</view>

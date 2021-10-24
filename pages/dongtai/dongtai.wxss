@@ -1,0 +1,50 @@
+Page{
+  background-image: url(https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202021-10-23%20170200.png?sign=2d62aa9638503f5b07df5f746e9a09a6);
+  background-size: 100% auto;
+}
+.body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  flex-direction: column;
+}
+textarea{
+  height: 630rpx;
+  margin-top: 10rpx;
+  padding: 10rpx;
+  color: rgba(80, 80, 80, 1);
+	font-size: 28rpx;
+  width: 90%;
+  background-color: #d6d6d6;
+}
+image{
+  width: 55rpx;
+	height: 55rpx;
+}
+.icon{
+  width: 90%;
+  color: rgba(80, 80, 80, 1);
+	font-size: 28rpx;
+  padding: 10rpx;
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  background-color: #d6d6d6;
+}
+image{
+  margin-left: 40rpx;
+}
+.fabu{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 224rpx;
+	height: 61rpx;
+	color: rgba(80, 80, 80, 1);
+	border-radius: 9rpx;
+	font-size: 28rpx;
+  border: red 2rpx solid;
+  margin-top: 20rpx;
+  margin-bottom: 20rpx;
+}

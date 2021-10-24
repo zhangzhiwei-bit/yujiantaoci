@@ -1,0 +1,74 @@
+<view class="search">
+  <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E5%9B%BE%E6%A0%87/%E6%90%9C%E7%B4%A2.png" class="icon1"></image>
+  <input type="text" placeholder="快速搜索你的消息"/>
+  <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E5%9B%BE%E6%A0%87/%E6%97%B6%E9%97%B4.png" class="icon2"></image>
+</view>
+<view class="option">
+  <navigator url="/pages/friends/friends">
+    <view class="item">
+    <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E6%B6%88%E6%81%AF/%E5%A5%BD%E5%8F%8B%E5%88%97%E8%A1%A8.png"></image>
+    <text>好友列表</text>
+  </view>
+  </navigator>
+  <navigator url="/pages/agree/agree">
+    <view class="item">
+    <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E6%B6%88%E6%81%AF/%E8%B5%9E%E5%90%8C.png"></image>
+    <text>赞同</text>
+  </view>
+  </navigator>
+ <navigator url="/pages/guanzhu/guanzhu">
+  <view class="item">
+    <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E6%B6%88%E6%81%AF/%E5%85%B3%E6%B3%A8.png"></image>
+    <text>关注</text>
+  </view>
+ </navigator>
+ <navigator url="/pages/pinglun/pinglun">
+  <view class="item">
+    <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E6%B6%88%E6%81%AF/%E8%AF%84%E8%AE%BA%E4%B8%8E%E8%BD%AC%E5%8F%91.png"></image>
+    <text>评论与转发</text>
+  </view>
+ </navigator>
+</view>
+<view class="messages">
+  <view class="message">
+    <view class="icon">
+      <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E6%B6%88%E6%81%AF/211%E9%93%83%E9%93%9B.png"></image>
+    </view>
+    <view class="content">
+      <text>小管家</text>
+      <text>你有新的消息待查看</text>
+    </view>
+  </view>
+  <view class="message">
+    <view class="icon">
+    </view>
+  </view>
+  <view class="message">
+    <view class="icon">
+    </view>
+  </view>
+  <view class="message">
+    <view class="icon">
+    </view>
+  </view>
+  <view class="message">
+    <view class="icon">
+    </view>
+  </view>
+  <view class="message">
+    <view class="icon">
+    </view>
+  </view>
+  <view class="message">
+    <view class="icon">
+    </view>
+  </view>
+  <view class="message">
+    <view class="icon">
+    </view>
+  </view>
+  <view class="message">
+    <view class="icon">
+    </view>
+  </view>
+</view>

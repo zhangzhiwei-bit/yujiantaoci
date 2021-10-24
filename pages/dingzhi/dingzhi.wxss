@@ -1,0 +1,119 @@
+Page{
+  background-image: url(https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202021-10-23%20170200.png?sign=2d62aa9638503f5b07df5f746e9a09a6);
+  background-size: 100% auto;
+}
+.search{
+  width: 700rpx;
+	height: 60rpx;
+	left: 15rpx;
+	top: 72rpx;
+	text-indent: 55rpx;
+	color: rgba(128, 128, 128, 1);
+	background-color: rgba(229, 229, 229, 1);
+	border-radius: 15rpx;
+	font-size: 24rpx;
+	line-height: 150%;
+  text-align: left;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20rpx;
+}
+.search image{
+  width: 40rpx;
+  height: 40rpx;
+}
+.search input{
+  text-align: left;
+  width: 90%;
+}
+.goods{
+  margin-top: 15rpx;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.good{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-left: 30rpx;
+  margin-right: 30rpx;
+}
+.good_pic{
+  width: 120rpx;
+  height: 120rpx;
+  border-radius: 62rpx;
+  background-color: #e5e5e5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.good_pic image{
+  width: 62rpx;
+	height: 62rpx;
+}
+.good text{
+  color: rgba(80, 80, 80, 1);
+	font-size: 28rpx;
+}
+.pic{
+  margin-top: 20rpx;
+  text-align: center;
+}
+.pic image{
+  width: 680rpx;
+  height: 237rpx;
+  border-radius: 10rpx;
+}
+.text{
+  letter-spacing: 10rpx;
+  text-align: right;
+  margin-right: 40rpx;
+  color: rgba(56, 56, 56, 1);
+  font-size: 28rpx;
+  font-weight: bold;
+}
+.goods_list{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.goods_list .good{
+  margin: 15rpx;
+  width: 340rpx;
+  height: 510rpx;
+  background-color: #bfbfbf;
+  border-radius: 20rpx;
+}
+.goods_list .good_pic{
+  width: 340rpx;
+  height: 349rpx;
+  border-radius: 20rpx;
+}
+.goods_list .good_pic image{
+  width: 340rpx;
+  height: 369rpx;
+  border-radius: 20rpx;
+}
+.good_info{
+ width: 340rpx;
+  margin-top: 10rpx;
+  height: 140rpx;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+.good_info  .name{
+  color: rgba(80, 80, 80, 1);
+	font-size: 33rpx;
+}
+.good_info .price{
+  color: rgba(229, 21, 21, 1);
+  font-size: 45rpx;
+  font-weight: bold;
+}

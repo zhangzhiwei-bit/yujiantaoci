@@ -1,0 +1,31 @@
+Page{
+  background-image: url(https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202021-10-23%20170200.png?sign=2d62aa9638503f5b07df5f746e9a09a6);
+  background-size: 100% auto;
+}
+.body{
+  padding-top: 30rpx;
+  background-color: white;
+}
+.item{
+  margin-top: 30rpx;
+  margin-left: 20rpx;
+  display: flex;
+  width: 750rpx;
+  height: 120rpx;
+}
+image{
+  width: 120rpx;
+  height: 120rpx;
+  padding-right: 20rpx;
+}
+text{
+  margin-top: 80rpx;
+  font-size: 20rpx;
+  color: rgba(80, 80, 80, 1);
+}
+.ruzhu{
+  margin: auto;
+  margin-right: 40rpx;
+  color: rgba(128, 128, 128, 1);
+	font-size: 26rpx;
+}

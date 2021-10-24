@@ -1,0 +1,10 @@
+<view class="body">
+<view class="item">
+  <view class="text">我只能为你做一盆一碗</view>
+<image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E9%A6%96%E9%A1%B5%E7%9B%B4%E6%92%AD/%E5%9B%BE%E7%89%87.png?sign=9b1231cf583fecf31f0e28916bbe93c3" mode="scaleToFill"></image>
+</view>
+<view class="item">
+  <view class="text">网红大V带你看豫瓷</view>
+<image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E9%A6%96%E9%A1%B5%E7%9B%B4%E6%92%AD/%E5%9B%BE%E7%89%87%20(1).png?sign=a9aef9822f2081e817df54348ca0b3cc" mode="scaleToFill"></image>
+</view>
+</view>

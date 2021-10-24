@@ -1,0 +1,39 @@
+<view class="option">
+  <view class="text1">热门商圈</view>
+  <view>买单优惠</view>
+  <view>近日活动</view>
+</view>
+<view class="goods_list">
+  <view class="good">
+    <view class="good_pic">
+      <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E9%80%9B%E9%80%9B%E9%A1%B5%E5%9B%BE%E6%A0%87/%E5%9B%BE%E7%89%87%2011.png"></image>
+    </view>
+    <view class="good_info">
+      <text class="name">DIY手工工艺作坊</text>
+    </view>
+  </view>
+  <view class="good">
+    <view class="good_pic">
+      <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E9%80%9B%E9%80%9B%E9%A1%B5%E5%9B%BE%E6%A0%87/%E5%9B%BE%E7%89%87%2011.png"></image>
+    </view>
+    <view class="good_info">
+      <text class="name">DIY手工工艺作坊</text>
+    </view>
+  </view>
+  <view class="good">
+    <view class="good_pic">
+      <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E9%80%9B%E9%80%9B%E9%A1%B5%E5%9B%BE%E6%A0%87/%E5%9B%BE%E7%89%87%2011.png"></image>
+    </view>
+    <view class="good_info">
+      <text class="name">DIY手工工艺作坊</text>
+    </view>
+  </view>
+  <view class="good">
+    <view class="good_pic">
+      <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E9%80%9B%E9%80%9B%E9%A1%B5%E5%9B%BE%E6%A0%87/%E5%9B%BE%E7%89%87%2011.png"></image>
+    </view>
+    <view class="good_info">
+      <text class="name">DIY手工工艺作坊</text>
+    </view>
+  </view>
+</view>

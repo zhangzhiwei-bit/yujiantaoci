@@ -1,0 +1,81 @@
+<view class="search">
+  <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E5%9B%BE%E6%A0%87/%E6%90%9C%E7%B4%A2.png" class="icon1"></image>
+  <input type="text" value="搜索"/>
+  <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E5%9B%BE%E6%A0%87/%E6%97%B6%E9%97%B4.png" class="icon2"></image>
+</view>
+<view class="goods">
+  <view class="good">
+    <view class="good_pic">
+      <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E9%80%9B%E9%80%9B%E9%A1%B5%E5%9B%BE%E6%A0%87/%E9%A4%90%E5%85%B7.png"></image>
+    </view>
+    <text>餐具</text>
+  </view>
+  <view class="good">
+    <view class="good_pic">
+      <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E9%80%9B%E9%80%9B%E9%A1%B5%E5%9B%BE%E6%A0%87/%E7%A2%97%E5%85%B7.png"></image>
+    </view>
+    <text>碗具</text>
+  </view>
+  <view class="good">
+    <view class="good_pic">
+      <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E9%80%9B%E9%80%9B%E9%A1%B5%E5%9B%BE%E6%A0%87/%E8%8C%B6%E5%85%B7.png"></image>
+    </view>
+    <text>茶具</text>
+  </view>
+  <view class="good">
+    <view class="good_pic">
+      <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E9%80%9B%E9%80%9B%E9%A1%B5%E5%9B%BE%E6%A0%87/%E7%9B%98%E5%AD%90.png"></image>
+    </view>
+    <text>缸碟</text>
+  </view>
+  <view class="good">
+    <view class="good_pic">
+      <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E9%80%9B%E9%80%9B%E9%A1%B5%E5%9B%BE%E6%A0%87/%E9%9B%95%E5%A1%91.png"></image>
+    </view>
+    <text>雕塑</text>
+  </view>
+  <view class="good">
+    <view class="good_pic">
+      <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E9%80%9B%E9%80%9B%E9%A1%B5%E5%9B%BE%E6%A0%87/%E8%8A%B1%E7%93%B6.png"></image>
+    </view>
+    <text>花瓶</text>
+  </view>
+  <view class="good">
+    <view class="good_pic">
+      <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E9%80%9B%E9%80%9B%E9%A1%B5%E5%9B%BE%E6%A0%87/%E5%A3%81%E7%94%BB-01.png"></image>
+    </view>
+    <text>壁画</text>
+  </view>
+  <view class="good">
+    <view class="good_pic">
+      <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E9%80%9B%E9%80%9B%E9%A1%B5%E5%9B%BE%E6%A0%87/%E8%A3%85%E9%A5%B0%E9%99%88%E8%AE%BE.png"></image>
+    </view>
+    <text>陈设</text>
+  </view>
+</view>
+<view class="pic">
+  <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E9%80%9B%E9%80%9B%E9%A1%B5%E5%9B%BE%E6%A0%87/%E5%9B%BE%E7%89%87%20495.jpg"></image>
+</view>
+<view class="text">
+  豫    /     见     /     陶     /    瓷
+</view>
+<view class="goods_list">
+  <view class="good">
+    <view class="good_pic">
+      <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E9%80%9B%E9%80%9B%E9%A1%B5%E5%9B%BE%E6%A0%87/%E5%9B%BE%E7%89%87%2011.png"></image>
+    </view>
+    <view class="good_info">
+      <text class="name">特别好的陶瓷制品</text>
+      <text class="price">¥398</text>
+    </view>
+  </view>
+  <view class="good">
+    <view class="good_pic">
+      <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E9%80%9B%E9%80%9B%E9%A1%B5%E5%9B%BE%E6%A0%87/%E5%9B%BE%E7%89%87%2011.png"></image>
+    </view>
+    <view class="good_info">
+      <text class="name">青花瓷</text>
+      <text class="price">¥398</text>
+    </view>
+  </view>
+</view>

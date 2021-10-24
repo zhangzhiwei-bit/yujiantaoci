@@ -1,0 +1,26 @@
+<view class="pic_pojo">
+  <view class="pic">
+    <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E9%A6%96%E9%A1%B5%E8%BD%AE%E6%92%AD%E5%9B%BE/%E5%9B%BE%E7%89%87%20118.JPG" mode="scaleToFill"/>
+    <view class="pic_text">汝州汝瓷</view>
+  </view>
+  <view class="pic">
+    <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E9%A6%96%E9%A1%B5%E8%BD%AE%E6%92%AD%E5%9B%BE/%E5%9B%BE%E7%89%87%20118.jpeg" mode="scaleToFill"></image>
+    <view class="pic_text">禹州钧瓷</view>
+  </view>
+  <view class="pic">
+    <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E9%A6%96%E9%A1%B5%E8%BD%AE%E6%92%AD%E5%9B%BE/%E5%9B%BE%E7%89%87%20118%20(1).jpeg" mode="scaleToFill"></image>
+    <view class="pic_text">鲁山花瓷</view>
+  </view>
+  <view class="pic">
+    <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E9%A6%96%E9%A1%B5%E8%BD%AE%E6%92%AD%E5%9B%BE/%E5%9B%BE%E7%89%87%20118%20(2).jpeg" mode="scaleToFill"></image>
+    <view class="pic_text">孟津唐三彩</view>
+  </view>
+  <view class="pic">
+    <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E9%A6%96%E9%A1%B5%E8%BD%AE%E6%92%AD%E5%9B%BE/%E5%9B%BE%E7%89%87%20118%20(3).jpeg" mode="scaleToFill"></image>
+    <view class="pic_text">禹州钧窑</view>
+  </view>
+  <view class="pic">
+    <image  src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E9%A6%96%E9%A1%B5%E8%BD%AE%E6%92%AD%E5%9B%BE/%E5%9B%BE%E7%89%87%20118%20(4).jpeg" mode="scaleToFill"></image>
+    <view class="pic_text">禹州钧窑</view>
+  </view>
+</view>

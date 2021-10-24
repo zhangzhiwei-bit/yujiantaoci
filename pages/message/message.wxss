@@ -1,0 +1,99 @@
+.search{
+  width: 700rpx;
+	height: 60rpx;
+	left: 15rpx;
+	top: 72rpx;
+	text-indent: 55rpx;
+	color: rgba(128, 128, 128, 1);
+	background-color: rgba(229, 229, 229, 1);
+	border-radius: 15rpx;
+	font-size: 24rpx;
+	line-height: 150%;
+  text-align: left;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.search image{
+  width: 40rpx;
+  height: 40rpx;
+}
+.search input{
+  text-align: left;
+  width: 90%;
+}
+.option{
+  width: 90%;
+  border-radius: 15rpx;
+  background-color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: auto;
+  margin-top: 20rpx;
+  padding: 10rpx;
+}
+.item{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.item image{
+  width: 90rpx;
+  height: 90rpx;
+}
+.item text{
+  color: rgba(80, 80, 80, 1);
+	background-color: rgba(153, 153, 153, 0);
+	font-size: 20rpx;
+}
+.messages{
+  background-color: white;
+  width: 92%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: auto;
+  margin-top: 20rpx;
+  border-radius: 10rpx;
+}
+.message{
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  width: 100%;
+  height: 90rpx;
+  border-bottom:rgba(80, 80, 80, 1) solid 2rpx;
+}
+.icon{
+  width: 70rpx;
+  height: 70rpx;
+  border-radius: 35rpx;
+  background-color: #e5e5e5;
+  text-align: center;
+}
+.icon image{
+  width: 60rpx;
+  height: 60rpx;
+}
+.content{
+  display: flex;
+  align-items: left;
+  flex-direction: column;
+  margin-left: 20rpx;
+}
+.content :nth-child(1){
+  color: rgba(80, 80, 80, 1);
+	background-color: rgba(153, 153, 153, 0);
+  font-size: 45rpx;
+  font-weight: bold;
+}
+.content :nth-child(2){
+  color: rgba(80, 80, 80, 1);
+	background-color: rgba(153, 153, 153, 0);
+  font-size: 25rpx;
+  margin-bottom: 20rpx;
+}

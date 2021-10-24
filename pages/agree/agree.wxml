@@ -1,0 +1,79 @@
+<view class="search">
+  <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E5%9B%BE%E6%A0%87/%E6%90%9C%E7%B4%A2.png" class="icon1"></image>
+  <input type="text" placeholder="快速搜索你的赞同"/>
+  <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E5%9B%BE%E6%A0%87/%E6%97%B6%E9%97%B4.png" class="icon2"></image>
+</view>
+<view class="messages">
+  <view class="message">
+    <view class="content">
+      <view class="pic"></view>
+      <view class="pic_con">
+      <text class="name">卖陶瓷的老王</text>
+      <text class="miaoshu">有没有人来看看我的陶瓷，前几天做的卖了，今天又新出了一批快来瞧一瞧。</text>
+      </view>
+    </view>
+    <view class="pinglun">
+      <view class="item">
+        <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E6%B6%88%E6%81%AF/%E7%88%B1%E5%BF%83.png"></image>
+        211
+      </view>
+      <view class="item">
+        <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E6%B6%88%E6%81%AF/%E8%AF%84%E8%AE%BA.png"></image>
+        150
+      </view>
+      <view class="item">
+        <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E6%B6%88%E6%81%AF/%E7%A9%BA%E4%BA%94%E8%A7%92%E6%98%9F.png"></image>
+        50
+      </view>
+    </view>
+  </view>
+  <view class="message">
+    <view class="content">
+      <view class="pic"></view>
+      <view class="pic_con">
+      <text class="name">就喜欢遇见陶瓷</text>
+      <text class="miaoshu">前几天在老王那买了几个陶瓷感觉做的好棒呀，等他出新品之后一定再去买几个！！！</text>
+      </view>
+    </view>
+    <view class="pinglun">
+      <view class="item">
+        <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E6%B6%88%E6%81%AF/%E7%88%B1%E5%BF%83.png"></image>
+        21
+      </view>
+      <view class="item">
+        <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E6%B6%88%E6%81%AF/%E8%AF%84%E8%AE%BA.png"></image>
+        5
+      </view>
+      <view class="item">
+        <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E6%B6%88%E6%81%AF/%E7%A9%BA%E4%BA%94%E8%A7%92%E6%98%9F.png"></image>
+        1
+      </view>
+    </view>
+  </view>
+  <view class="message">
+    <view class="content">
+      <view class="pic"></view>
+      <view class="pic_con">
+      <text class="name">一个用户</text>
+      <text class="miaoshu">请问什么时候能出新的陶瓷呢，好期待！
+加油哟，支持你们！
+希望各位大大们能早点出新品。
+比❤️</text>
+      </view>
+    </view>
+    <view class="pinglun">
+      <view class="item">
+        <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E6%B6%88%E6%81%AF/%E7%88%B1%E5%BF%83.png"></image>
+        21
+      </view>
+      <view class="item">
+        <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E6%B6%88%E6%81%AF/%E8%AF%84%E8%AE%BA.png"></image>
+        183
+      </view>
+      <view class="item">
+        <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E6%B6%88%E6%81%AF/%E7%A9%BA%E4%BA%94%E8%A7%92%E6%98%9F.png"></image>
+        9
+      </view>
+    </view>
+  </view>
+</view>

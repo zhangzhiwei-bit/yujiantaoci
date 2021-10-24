@@ -1,0 +1,43 @@
+<view class="search">
+  <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E5%9B%BE%E6%A0%87/%E6%90%9C%E7%B4%A2.png" class="icon1"></image>
+  <input type="text" placeholder="搜索关注的内容"/>
+  <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E5%9B%BE%E6%A0%87/%E6%97%B6%E9%97%B4.png" class="icon2"></image>
+</view>
+<view class="guanzhu">
+  <view class="item">
+    <view class="pic"></view>
+    <view class="name">收藏的店铺</view>
+  </view>
+  <view class="xuhao">
+  A
+  </view>
+  <view class="item">
+    <view class="pic"></view>
+    <view class="name">爱陶瓷的老王</view>
+  </view>
+  <view class="xuhao">
+  B
+  </view>
+  <view class="item">
+    <view class="pic"></view>
+    <view class="name">邦个浪邦邦</view>
+  </view>
+  <view class="xuhao">
+  C
+  </view>
+  <view class="item">
+    <view class="pic"></view>
+    <view class="name">可乐好好喝</view>
+  </view>
+  <view class="xuhao">
+  T
+  </view>
+  <view class="item">
+    <view class="pic"></view>
+    <view class="name">天天摸鱼</view> 
+  </view>
+  <view class="item">
+    <view class="pic"></view>
+    <view class="name">桃子</view> 
+  </view>
+</view>

@@ -1,0 +1,38 @@
+<!--pages/per/per.wxml-->
+<view class="body">
+<view class="item">
+<image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E4%BC%A0%E6%89%BF%E4%BA%BA/%E5%9B%BE%E7%89%87%205.png?sign=584122398a74dc41dc2d77c895e23675" mode="scaleToFill"></image>
+<text>让好的器皿生活在家里</text>
+<text class="ruzhu"></text>
+</view>
+<view class="item">
+<image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E4%BC%A0%E6%89%BF%E4%BA%BA/%E5%9B%BE%E7%89%87%205.jpeg?sign=be878bf1b45c06527c55989105bd2536" mode="scaleToFill"></image>
+<text>用产生美，美又会进一步辅助用</text>
+<text class="ruzhu"></text>
+</view>
+<view class="item">
+<image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E4%BC%A0%E6%89%BF%E4%BA%BA/%E5%9B%BE%E7%89%87%205%20(5).jpeg?sign=ef708f9180be04dc5ec44a09e237479f" mode="scaleToFill"></image>
+<text>匠心独运</text>
+<text class="ruzhu">已入驻</text>
+</view>
+<view class="item">
+<image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E4%BC%A0%E6%89%BF%E4%BA%BA/%E5%9B%BE%E7%89%87%205%20(4).jpeg?sign=1cf287723662ec887d72d61426acc8ae" mode="scaleToFill"></image>
+<text>生生不息，绵延不绝</text>
+<text class="ruzhu">已入驻</text>
+</view>
+<view class="item">
+<image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E4%BC%A0%E6%89%BF%E4%BA%BA/%E5%9B%BE%E7%89%87%205%20(3).jpeg?sign=7b4a6ab6fa74b69f16fd79df94c67703" mode="scaleToFill"></image>
+<text>巧剜明月染春水，轻旋薄冰盛绿云</text>
+<text class="ruzhu"></text>
+</view>
+<view class="item">
+<image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E4%BC%A0%E6%89%BF%E4%BA%BA/%E5%9B%BE%E7%89%87%205%20(2).jpeg?sign=65f9d76ac2c002508623378fd57c0de1" mode="scaleToFill"></image>
+<text>陶艺人生</text>
+<text class="ruzhu">已入驻</text>
+</view>
+<view class="item">
+<image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E4%BC%A0%E6%89%BF%E4%BA%BA/%E5%9B%BE%E7%89%87%205%20(1).jpeg?sign=0a00b4f3828aec6e6503806cdbfc7b1c" mode="scaleToFill"></image>
+<text>让好的器皿生活在家里</text>
+<text class="ruzhu">已入驻</text>
+</view>
+</view>

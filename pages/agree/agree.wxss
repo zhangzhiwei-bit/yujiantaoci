@@ -1,0 +1,89 @@
+.search{
+  width: 700rpx;
+	height: 60rpx;
+	left: 15rpx;
+	top: 72rpx;
+	text-indent: 55rpx;
+	color: rgba(128, 128, 128, 1);
+	background-color: rgba(229, 229, 229, 1);
+	border-radius: 15rpx;
+	font-size: 24rpx;
+	line-height: 150%;
+  text-align: left;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: auto;
+  margin-top: 20rpx;
+}
+.search image{
+  width: 40rpx;
+  height: 40rpx;
+}
+.search input{
+  text-align: left;
+  width: 90%;
+}
+Page{
+  background-image: url(https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202021-10-23%20170200.png?sign=2d62aa9638503f5b07df5f746e9a09a6);
+  background-size: 100% auto;
+}
+.messages{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 20rpx;  
+}
+.message{
+  margin-top: 50rpx;
+  border-bottom: #999999 solid 2rpx;
+}
+.content{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.pic{
+  width: 90rpx;
+  height: 90rpx;
+  border-radius: 45rpx;
+  background-color: #999999;
+}
+.pic_con{
+  display: flex;
+  justify-content: center;
+  align-items: left;
+  flex-direction: column;
+  width: 600rpx;
+  margin-left: 20rpx;
+}
+.name{
+  color: rgba(80, 80, 80, 1);
+	background-color: rgba(153, 153, 153, 0);
+  font-size: 30rpx;
+  font-weight: bold;
+}
+.miaoshu{
+  margin-top: 20rpx;
+  color: rgba(80, 80, 80, 1);
+	background-color: rgba(153, 153, 153, 0);
+  font-size: 20rpx;
+}
+.pinglun{
+  margin-top: 50rpx;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.item image{
+  width: 40rpx;
+  height: 40rpx;
+}
+.item{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgba(80, 80, 80, 1);
+	font-size: 25rpx;
+}

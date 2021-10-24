@@ -1,0 +1,238 @@
+<view class="body">
+  <view class="header">
+    <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E5%9B%BE%E6%A0%87/%E6%90%9C%E7%B4%A2.png" class="icon1"></image>
+    <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E5%9B%BE%E6%A0%87/%E6%88%91%20%E7%9A%84-o.png" class="icon1"></image>
+    <navigator bindtap="click1">关注</navigator>
+    <navigator bindtap="click2">广场</navigator>
+  </view>
+  <view class="fonter" wx:if="{{checked}}" >
+    <view class="item">
+      <view class="name">
+        <view class="pic"></view>
+        <view class="pic_name">一二三四</view>
+      </view>
+      <view class="content">有人约着一起下午去DIY陶瓷吗？</view>
+      <view class="position">
+        10分钟前 来自 河南郑州
+        <view class="icon">
+          <navigator>
+            <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E5%9B%BE%E6%A0%87/%E6%94%B6%E8%97%8F.png"></image>
+          </navigator>
+          <navigator>
+            <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E5%9B%BE%E6%A0%87/%E6%B6%88%E6%81%AF1.png"></image>
+          </navigator>
+          <navigator style="position: relative;">
+            <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E5%9B%BE%E6%A0%87/%E8%BD%AC%E5%8F%91.png">
+            </image>
+            <button open-type="share" style="width: 30rpx; position: absolute;top: 0rpx;opacity:0.2;"></button>
+          </navigator>
+        </view>
+      </view>
+    </view>
+    <view class="item">
+      <view class="name">
+        <view class="pic"></view>
+        <view class="pic_name">一二三四</view>
+      </view>
+      <view class="content">新入手的的一套茶具。
+      <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E5%8F%91%E7%8E%B0/%E5%85%B3%E6%B3%A8/%E5%9B%BE%E7%89%87%2021.jpeg?sign=ba4a8cf5df3b836ac42e4a5a245d75d1" mode="widthFix"></image>
+      </view>
+      <view class="position">
+        09:30 来自 河南安阳
+        <view class="icon">
+          <navigator>
+            <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E5%9B%BE%E6%A0%87/%E6%94%B6%E8%97%8F.png"></image>
+          </navigator>
+          <navigator>
+            <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E5%9B%BE%E6%A0%87/%E6%B6%88%E6%81%AF1.png"></image>
+          </navigator>
+          <navigator style="position: relative;">
+            <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E5%9B%BE%E6%A0%87/%E8%BD%AC%E5%8F%91.png">
+            </image>
+            <button open-type="share" style="width: 30rpx; position: absolute;top: 0rpx;opacity:0.2;"></button>
+          </navigator>
+        </view>
+      </view>
+    </view>
+    <view class="item">
+      <view class="name">
+        <view class="pic"></view>
+        <view class="pic_name">一二三四</view>
+      </view>
+      <view class="content">大师的设计就是好！
+      <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E5%8F%91%E7%8E%B0/%E5%85%B3%E6%B3%A8/%E5%9B%BE%E7%89%87%2021%20(1).jpeg?sign=95ba70d4350fa67da543f2eaa8dc6478" mode="widthFix"></image>
+      </view>
+      <view class="position">
+        09:10 来自 河南安阳
+        <view class="icon">
+          <navigator>
+            <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E5%9B%BE%E6%A0%87/%E6%94%B6%E8%97%8F.png"></image>
+          </navigator>
+          <navigator>
+            <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E5%9B%BE%E6%A0%87/%E6%B6%88%E6%81%AF1.png"></image>
+          </navigator>
+          <navigator style="position: relative;">
+            <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E5%9B%BE%E6%A0%87/%E8%BD%AC%E5%8F%91.png">
+            </image>
+            <button open-type="share" style="width: 30rpx; position: absolute;top: 0rpx;opacity:0.2;"></button>
+          </navigator>
+        </view>
+      </view>
+    </view>
+    <view class="item">
+      <view class="name">
+        <view class="pic"></view>
+        <view class="pic_name">一二三四</view>
+      </view>
+      <view class="content">一个花瓶真的可以品玩很久！
+      </view>
+      <view class="position">
+        08:30 来自 河南郑州
+        <view class="icon">
+          <navigator>
+            <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E5%9B%BE%E6%A0%87/%E6%94%B6%E8%97%8F.png"></image>
+          </navigator>
+          <navigator>
+            <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E5%9B%BE%E6%A0%87/%E6%B6%88%E6%81%AF1.png"></image>
+          </navigator>
+          <navigator style="position: relative;">
+            <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E5%9B%BE%E6%A0%87/%E8%BD%AC%E5%8F%91.png">
+            </image>
+            <button open-type="share" style="width: 30rpx; position: absolute;top: 0rpx;opacity:0.2;"></button>
+          </navigator>
+        </view>
+      </view>
+    </view>
+  </view>
+  <view class="fonter" wx:else>
+    <view class="add" bindtap="handletap">
+      <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E5%9B%BE%E6%A0%87/%E6%B7%BB%E5%8A%A0.png"></image>
+    </view>
+    <view class="item" id="it">
+          <image class="swi" src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E5%8F%91%E7%8E%B0/%E5%8F%91%E7%8E%B0%E8%BD%AE%E6%92%AD%E5%9B%BE/%E5%9B%BE%E7%89%87%202%20(1).jpeg?sign=ccf72783e765a272d7b0143331cb99d8"></image>
+          <image class="swi" src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E5%8F%91%E7%8E%B0/%E5%8F%91%E7%8E%B0%E8%BD%AE%E6%92%AD%E5%9B%BE/%E5%9B%BE%E7%89%87%202%20(2).jpeg?sign=b5b3c0d2c2bd9ca82e98dff26e9231cc"></image>
+          <image class="swi" src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E5%8F%91%E7%8E%B0/%E5%8F%91%E7%8E%B0%E8%BD%AE%E6%92%AD%E5%9B%BE/%E5%9B%BE%E7%89%87%202.jpeg?sign=b6d535b1892ebe65ef9d2531a9f377d9"></image>
+    </view>
+    <view class="item">
+      <view class="name">
+        <view class="pic"></view>
+        <view class="pic_name">一二三四</view>
+      </view>
+      <view class="content">有人约着一起下午去DIY陶瓷吗？</view>
+      <view class="position">
+        10分钟前 来自 河南郑州
+        <view class="icon">
+          <navigator>
+            <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E5%9B%BE%E6%A0%87/%E6%94%B6%E8%97%8F.png"></image>
+          </navigator>
+          <navigator>
+            <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E5%9B%BE%E6%A0%87/%E6%B6%88%E6%81%AF1.png"></image>
+          </navigator>
+          <navigator style="position: relative;">
+            <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E5%9B%BE%E6%A0%87/%E8%BD%AC%E5%8F%91.png">
+            </image>
+            <button open-type="share" style="width: 30rpx; position: absolute;top: 0rpx;opacity:0.2;"></button>
+          </navigator>
+        </view>
+      </view>
+    </view>
+    <view class="item">
+      <view class="name">
+        <view class="pic"></view>
+        <view class="pic_name">一二三四</view>
+      </view>
+      <view class="content">用这套杯子喝茶都成了一个有仪式感的事情。
+        <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E5%8F%91%E7%8E%B0/%E5%85%B3%E6%B3%A8/%E5%9B%BE%E7%89%87%2021%20(2).jpeg?sign=7949d2d8b42d86e65577755cb0e6cb57" mode="widthFix"></image>
+      </view>
+      <view class="position">
+        09:30 来自 河南安阳
+        <view class="icon">
+          <navigator>
+            <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E5%9B%BE%E6%A0%87/%E6%94%B6%E8%97%8F.png"></image>
+          </navigator>
+          <navigator>
+            <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E5%9B%BE%E6%A0%87/%E6%B6%88%E6%81%AF1.png"></image>
+          </navigator>
+          <navigator style="position: relative;">
+            <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E5%9B%BE%E6%A0%87/%E8%BD%AC%E5%8F%91.png">
+            </image>
+            <button open-type="share" style="width: 30rpx; position: absolute;top: 0rpx;opacity:0.2;"></button>
+          </navigator>
+        </view>
+      </view>
+    </view>
+    <view class="item">
+      <view class="name">
+        <view class="pic"></view>
+        <view class="pic_name">一二三四</view>
+      </view>
+      <view class="content">感谢好兄弟给我带的一个手工陶瓷杯子！
+      </view>
+      <view class="position">
+        09:24 来自 河南郑州
+        <view class="icon">
+          <navigator>
+            <image src="/icons/收藏.png"></image>
+          </navigator>
+          <navigator>
+            <image src="/icons/消息1.png"></image>
+          </navigator>
+          <navigator style="position: relative;">
+            <image src="/icons/转发.png">
+            </image>
+            <button open-type="share" style="width: 30rpx; position: absolute;top: 0rpx;opacity:0.2;"></button>
+          </navigator>
+        </view>
+      </view>
+    </view>
+    <view class="item">
+      <view class="name">
+        <view class="pic"></view>
+        <view class="pic_name">一二三四</view>
+      </view>
+      <view class="content">博物馆里的陶瓷真的很震撼！
+      </view>
+      <view class="position">
+        09:12 来自 河南周口
+        <view class="icon">
+          <navigator>
+            <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E5%9B%BE%E6%A0%87/%E6%94%B6%E8%97%8F.png"></image>
+          </navigator>
+          <navigator>
+            <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E5%9B%BE%E6%A0%87/%E6%B6%88%E6%81%AF1.png"></image>
+          </navigator>
+          <navigator style="position: relative;">
+            <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E5%9B%BE%E6%A0%87/%E8%BD%AC%E5%8F%91.png">
+            </image>
+            <button open-type="share" style="width: 30rpx; position: absolute;top: 0rpx;opacity:0.2;"></button>
+          </navigator>
+        </view>
+      </view>
+    </view>
+    <view class="item">
+      <view class="name">
+        <view class="pic"></view>
+        <view class="pic_name">一二三四</view>
+      </view>
+      <view class="content">大家帮我看看这个工艺怎么样？
+        <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E5%8F%91%E7%8E%B0/%E5%85%B3%E6%B3%A8/%E5%9B%BE%E7%89%87%2021%20(3).jpeg?sign=462554149011eb86dd4a8f904ca470e1" mode="widthFix"></image>
+      </view>
+      <view class="position">
+        07:12 来自 河南安阳
+        <view class="icon">
+          <navigator>
+            <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E5%9B%BE%E6%A0%87/%E6%94%B6%E8%97%8F.png"></image>
+          </navigator>
+          <navigator>
+            <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E5%9B%BE%E6%A0%87/%E6%B6%88%E6%81%AF1.png"></image>
+          </navigator>
+          <navigator style="position: relative;">
+            <image src="https://6c69-lipcloud-9xi74-7gez3k7ab9dfc7fb-1305629328.tcb.qcloud.la/%E5%9B%BE%E6%A0%87/%E8%BD%AC%E5%8F%91.png">
+            </image>
+            <button open-type="share" style="width: 30rpx; position: absolute;top: 0rpx;opacity:0.2;"></button>
+          </navigator>
+        </view>
+      </view>
+    </view>
+  </view>
+</view>
